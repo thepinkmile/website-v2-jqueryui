@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website", "Website\Website.csproj", "{04EF52DD-9865-4A2A-8908-B44655EA83E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "markup", "markup", "{966FC387-BBE9-4F01-A245-C9AEE4BEF16F}"
+	ProjectSection(SolutionItems) = preProject
+		..\markup\index.html = ..\markup\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{90526B76-2BB5-43F3-8EE9-A5B504B8A1F6}"
+	ProjectSection(SolutionItems) = preProject
+		..\markup\css\carosel.min.css = ..\markup\css\carosel.min.css
+		..\markup\css\font-awesome.css = ..\markup\css\font-awesome.css
+		..\markup\css\font-awesome.min.css = ..\markup\css\font-awesome.min.css
+		..\markup\css\home.css = ..\markup\css\home.css
+		..\markup\css\jquery-ui.css = ..\markup\css\jquery-ui.css
+		..\markup\css\jquery-ui.min.css = ..\markup\css\jquery-ui.min.css
+		..\markup\css\jquery-ui.structure.css = ..\markup\css\jquery-ui.structure.css
+		..\markup\css\jquery-ui.structure.min.css = ..\markup\css\jquery-ui.structure.min.css
+		..\markup\css\jquery-ui.theme.css = ..\markup\css\jquery-ui.theme.css
+		..\markup\css\jquery-ui.theme.min.css = ..\markup\css\jquery-ui.theme.min.css
+		..\markup\css\news-events.css = ..\markup\css\news-events.css
+		..\markup\css\site.css = ..\markup\css\site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{B126E95D-53BB-433A-81B5-E69FDBB87460}"
+	ProjectSection(SolutionItems) = preProject
+		..\markup\scripts\jquery-1.12.4.js = ..\markup\scripts\jquery-1.12.4.js
+		..\markup\scripts\jquery-1.12.4.min.js = ..\markup\scripts\jquery-1.12.4.min.js
+		..\markup\scripts\jquery-ui.js = ..\markup\scripts\jquery-ui.js
+		..\markup\scripts\jquery-ui.min.js = ..\markup\scripts\jquery-ui.min.js
+		..\markup\scripts\jquery.marquee.min.js = ..\markup\scripts\jquery.marquee.min.js
+		..\markup\scripts\site-script.js = ..\markup\scripts\site-script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{0602F38F-CF8E-4A4D-AC79-4DCD1931E67A}"
+	ProjectSection(SolutionItems) = preProject
+		..\markup\images\admin-top-bar.gif = ..\markup\images\admin-top-bar.gif
+		..\markup\images\arrow.gif = ..\markup\images\arrow.gif
+		..\markup\images\background.png = ..\markup\images\background.png
+		..\markup\images\bg1.jpg = ..\markup\images\bg1.jpg
+		..\markup\images\button-next.png = ..\markup\images\button-next.png
+		..\markup\images\button-previous.png = ..\markup\images\button-previous.png
+		..\markup\images\cms_header_logo.gif = ..\markup\images\cms_header_logo.gif
+		..\markup\images\favicon.ico = ..\markup\images\favicon.ico
+		..\markup\images\gbt.gif = ..\markup\images\gbt.gif
+		..\markup\images\jHtmlArea.png = ..\markup\images\jHtmlArea.png
+		..\markup\images\jHtmlArea_Toolbar_Group__Btn_Select_BG.png = ..\markup\images\jHtmlArea_Toolbar_Group__Btn_Select_BG.png
+		..\markup\images\jHtmlArea_Toolbar_Group_BG.png = ..\markup\images\jHtmlArea_Toolbar_Group_BG.png
+		..\markup\images\login_button.gif = ..\markup\images\login_button.gif
+		..\markup\images\login_icon.gif = ..\markup\images\login_icon.gif
+		..\markup\images\logo.jpg = ..\markup\images\logo.jpg
+		..\markup\images\logo_200.jpg = ..\markup\images\logo_200.jpg
+		..\markup\images\no-image.png = ..\markup\images\no-image.png
+		..\markup\images\page-background.png = ..\markup\images\page-background.png
+		..\markup\images\rss.gif = ..\markup\images\rss.gif
+		..\markup\images\serenity_with_bear.jpg = ..\markup\images\serenity_with_bear.jpg
+		..\markup\images\site-accessible.gif = ..\markup\images\site-accessible.gif
+		..\markup\images\slash.gif = ..\markup\images\slash.gif
+		..\markup\images\trinity_with_smile.jpg = ..\markup\images\trinity_with_smile.jpg
+		..\markup\images\ui-icons_333333_256x240.png = ..\markup\images\ui-icons_333333_256x240.png
+		..\markup\images\ui-icons_cc0000_256x240.png = ..\markup\images\ui-icons_cc0000_256x240.png
+		..\markup\images\ui-icons_ffffff_256x240.png = ..\markup\images\ui-icons_ffffff_256x240.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{1021777C-2BE5-4565-8840-6985EA6C1B77}"
+	ProjectSection(SolutionItems) = preProject
+		..\markup\fonts\fontawesome-webfont.eot = ..\markup\fonts\fontawesome-webfont.eot
+		..\markup\fonts\fontawesome-webfont.svg = ..\markup\fonts\fontawesome-webfont.svg
+		..\markup\fonts\fontawesome-webfont.ttf = ..\markup\fonts\fontawesome-webfont.ttf
+		..\markup\fonts\fontawesome-webfont.woff = ..\markup\fonts\fontawesome-webfont.woff
+		..\markup\fonts\fontawesome-webfont.woff2 = ..\markup\fonts\fontawesome-webfont.woff2
+		..\markup\fonts\FontAwesome.otf = ..\markup\fonts\FontAwesome.otf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EF52DD-9865-4A2A-8908-B44655EA83E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EF52DD-9865-4A2A-8908-B44655EA83E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EF52DD-9865-4A2A-8908-B44655EA83E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EF52DD-9865-4A2A-8908-B44655EA83E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90526B76-2BB5-43F3-8EE9-A5B504B8A1F6} = {966FC387-BBE9-4F01-A245-C9AEE4BEF16F}
+		{B126E95D-53BB-433A-81B5-E69FDBB87460} = {966FC387-BBE9-4F01-A245-C9AEE4BEF16F}
+		{0602F38F-CF8E-4A4D-AC79-4DCD1931E67A} = {966FC387-BBE9-4F01-A245-C9AEE4BEF16F}
+		{1021777C-2BE5-4565-8840-6985EA6C1B77} = {966FC387-BBE9-4F01-A245-C9AEE4BEF16F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FFDB66-BF15-42BD-83F0-DB77115EFD4B}
+	EndGlobalSection
+EndGlobal

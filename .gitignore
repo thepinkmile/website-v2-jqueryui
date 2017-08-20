@@ -289,3 +289,4 @@ __pycache__/
 
 # Custom Exclusions
 markup/aspnet_client
+src/Website/wwwroot/lib/
