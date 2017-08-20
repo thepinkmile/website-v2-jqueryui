@@ -1,0 +1,12 @@
+.newsevent-panel .newsevent-header {
+	padding: 0.2em 0;
+	text-align: center;
+	margin: 0;
+}
+.newsevent-item {
+	border-top: none;
+	padding: 0.2em 0.8em;
+}
+.newsevent-item h3 a, .newsevent-item h3 a:visited {
+	color: #fd5799;
+}
